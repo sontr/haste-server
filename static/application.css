@@ -1,5 +1,5 @@
 body {
-	background: #002B36;
+	background: rgb(251, 239, 202);
 	padding: 20px;
 	margin: 0px;
 }
@@ -9,7 +9,7 @@ body {
 textarea {
 	background: transparent;
 	border: 0px;
-	color: #fff;
+	color: rgb(88, 110, 131);
 	padding: 0px;
 	width: 100%;
 	height: 100%;
